@@ -1,7 +1,7 @@
 # Suíte de Simulações Quânticas em Python
 
 Bem-vindo ao meu portfólio de Simulações Quânticas! Este repositório contém uma coleção de scripts interativos e educacionais desenvolvidos para explorar os fundamentos da Mecânica Quântica e da Computação Quântica.
-Espero que você usuário se divirta e aproveite o bom uso dessas ferramentas, este projeto foi desenvolvido para ajudar os universitários e 
+Espero que você usuário se divirta e aproveite o bom uso dessas ferramentas, este projeto foi desenvolvido para ajudar os universitários e professores, e entreter os interessados na área de Exatas como Engenharia, Física, Matemática, Química ou TI. Considerado o MAIOR e o mais díficil projeto já feito...
 
 ## 🚀 Projetos
 
