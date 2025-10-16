@@ -5,7 +5,7 @@ Espero que você usuário se divirta e aproveite o bom uso dessas ferramentas, e
 
 ![Animação da Rotação Quântica](Figure_Bloch.gif)
 
-## Requerimentos
+## ⚙️ Requerimentos
 
 Aqui está uma lista clara de todos os requerimentos necessários para rodar os meus projetos.
 
@@ -59,10 +59,10 @@ Esta suíte é dividida nos seguintes módulos:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://qiskit.org/" target="_blank" rel="noreferrer" title="Qiskit">
-    <img src="./assets/qiskit.svg" alt="Qiskit" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/qiskit" alt="Qiskit" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer" title="Streamlit">
-    <img src="./assets/streamlit.svg" alt="Streamlit" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" title="Matplotlib">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
@@ -74,7 +74,7 @@ Esta suíte é dividida nos seguintes módulos:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
   <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer" title="Altair">
-    <img src="./assets/altair.svg" alt="Altair" width="40" height="40"/>
+    <img src="https://companieslogo.com/img/orig/ALTR-c0246b7f.png?t=1720244490" alt="Altair" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
